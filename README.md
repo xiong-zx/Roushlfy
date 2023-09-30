@@ -1,12 +1,12 @@
-This is @Roushlfy
+This is @Roushlfy。
 
-I'm current an undergraduate at Tsinghua Univ.
+I'm currently an undergraduate at Tsinghua University。
 
 My interested topics are
 - Machine learning for combinatorial optimization (current focus)
-- Operations research (my major)
-- Markov decision process (beginning)
-- Stochastic programming (beginning)
+- Operations research
+- Markov decision process
+- Stochastic programming
 
 Please contact me via xiong-zx21@mails.tsinghua.edu.cn
 
